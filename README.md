@@ -1,8 +1,8 @@
 # Ship It Friday
 
-[![make.fun](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a)](https://make.fun/competitions/u-mgwals-ship-it-friday-30bd407a)
-[![owner](https://img.shields.io/badge/owner-sosissausage35--collab-blue)](https://github.com/sosissausage35-collab)
-[![repo](https://img.shields.io/badge/repo-ship--it--friday-green)](https://github.com/sosissausage35-collab/ship-it-friday)
+[![make.fun · u-mgwals-ship-it-friday-30bd407a](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/sosissausage35-collab/ship-it-friday/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/sosissausage35-collab/ship-it-friday/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
 
 Entry for the [Ship It Friday](https://make.fun/competitions/u-mgwals-ship-it-friday-30bd407a) bounty on [make.fun](https://make.fun/?ref=f4pc3mbd): the funniest one-line git commit message an AI coding agent would write right before breaking production on a Friday.
 
